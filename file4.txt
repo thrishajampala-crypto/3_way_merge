@@ -1,0 +1,3 @@
+welcome to Bec
+welcome to IT department
+this is devops lab
